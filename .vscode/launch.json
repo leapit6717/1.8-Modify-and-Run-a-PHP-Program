@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    
+    {
+      "type": "chrome",
+      "request": "launch",
+      "name": "Run Pittman_Wk1A2",
+      "url": "http://localhost/Pittman_Wk1A2/"
+    }
+  ]
+}
